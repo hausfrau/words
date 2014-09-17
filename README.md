@@ -1,4 +1,4 @@
 words
 =====
 
-Assistant to learn foreign languages
+Assistant to learn foreign languages designed by Olga Ogarkova
