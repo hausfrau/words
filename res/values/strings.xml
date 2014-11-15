@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestWords1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="write_file">Сохранить изменения в файл</string>
+    <string name="editTextAnswersCountLabel">Количество вариантов ответов</string>
+    <string name="editTextWordsCountLabel">Количество слов</string>
+    <string name="button_ok">Начать тест</string>
+    <string name="button_quit">Выход</string>
+    <string name="button_newtest">Новый тест</string>
+    <string name="btnLang1Lang2">Lang1->Lang2</string>
+    <string name="btnLang2Lang1">Lang2->Lang1</string>
+
+    <string-array name="names">
+        <item>Иван</item>
+        <item>Марья</item>
+        <item>Петр</item>
+        <item>Антон</item>
+        <item>Даша</item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Анна</item>
+        <item>Денис</item>
+        <item>Вадим</item>
+        <item>Ольга</item>
+        <item>Сергей</item>
+    </string-array>
+
+</resources>
