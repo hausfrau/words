@@ -1,8 +1,8 @@
-words
+Words
 =====
 
-Assistant to learn foreign languages designed by Olga Ogarkova
+Assistant to learn foreign languages for Android designed by Olga Ogarkova
 
-Test
+
 
 
